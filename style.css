@@ -1,0 +1,271 @@
+.inbox1{
+    /* height: 50px; */
+    color: white;
+    text-align: right;
+    padding: 20px 0px;
+}
+.sec1{
+    background-color: #1d3d78;
+}
+.inbox3{
+    /* background-color:antiquewhite; */
+   padding: 200px 0px;
+   text-align: center;
+   color: white;
+}
+.sec3{
+    background-image: url(pierre-chatel-innocenti-pxoZSTdAzeU-unsplash.jpg);
+    background-size: cover;
+    
+}
+.sec2{
+    background-color: #335594;
+}
+.sec4{
+    background-color: #1d3d78;
+}
+.sec5{
+    background-color:white;
+}
+.sec6{
+    background-color:white;
+}
+.sec7{
+    background-color:white;
+}
+.sec8{
+    background-color: #1d3d78;
+}
+.transparent{
+    background-color: #335594bd;
+}
+.inbox4{
+    /* background-color: aqua; */
+    min-height: 300px;
+    
+}
+.inbox5{
+    /* background-color: aquamarine; */
+    height: 300px;
+    
+  
+    
+}
+.inbox6{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    text-align: center;
+
+}
+.inbox7{
+    background-color: #1d3d78;
+    height: 80px;
+    color: white;
+    text-align: center;
+}
+.line{
+    width: 100px;
+    margin: auto;
+   height: 3px;
+   border: 0;
+   background-color:  #1b489cbd;
+   
+}
+.line1{
+
+    width: 100px;
+    margin: auto;
+   height: 3px;
+   border: 0;
+   background-color:  #1b489cbd;
+}
+.line2{
+    width: 100px;
+    margin: auto;
+   height: 3px;
+   border: 0;
+   background-color:  #1b489cbd;
+   
+}
+.space{
+    margin: 8px ;
+}
+.space1{
+    margin: 8px ;
+}
+.space2{
+    margin: 8px ;
+}
+.space3{
+    margin: 8px ;
+}
+.inbox8
+{
+    /* background-color: aqua; */
+    min-height: 100px;
+    margin-top: 15px;
+    color: white;
+}
+.inbox10{
+    /* background-color: aquamarine; */
+    /* height: 300px; */
+}
+
+.icon1{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+}
+.icon1{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+    
+}.icon1{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+}
+.icon1{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+}
+.icon1{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+}
+.inbox9{
+    /* background-color: aqua; */
+    height: 80px;
+    color: black;
+    text-align: center;
+}
+.inbox10{
+    /* background-color: aqua; */
+    min-height: 200px;
+    /* color: black; */
+    text-align: center;
+    margin-top: 15px;
+}
+
+.inbox11{
+    /* background-color: aqua; */
+    min-height: 200px;
+    /* color: black; */
+    text-align: center;
+    margin-top: 15px;
+}
+.inbox12{
+    /* background-color: aqua; */
+    min-height: 200px;
+    /* color:white; */
+    text-align: center;
+    margin-top: 15px;
+}
+.inbox13{
+    background-color: #1b489cbd;
+    height: 207px;
+    /* color: black; */
+    text-align: center; 
+    margin-top: 15px;
+    
+}
+.inbox14{
+    /* background-color:wheat; */
+    height: 80px;
+    text-align: center;
+}
+.inbox15{
+    /* background-color:wheat; */
+    border: 1PX solid wheat;
+    min-height: 400px;
+    text-align: center;
+    margin-top: 15px;
+}
+.inbox16{
+    /* background-color:wheat; */
+    min-height: 400px;
+    text-align: center;
+    margin-top: 15px;
+    border: 1PX solid wheat;
+}
+.inbox17{
+    /* background-color:wheat; */
+    min-height: 400px;
+    text-align: center;
+    margin-top: 15px;
+    border: 1PX solid wheat;
+}
+.inbox18{
+    /* background-color:whitesmoke; */
+    height: 80px;
+    text-align: center;
+    margin: 15px;
+}
+.inbox19{
+    /* background-color:whitesmoke; */
+    height: 120px;
+    text-align: center;
+    margin: 15px;
+
+    
+}
+.inbox20{
+    /* background-color: #335594bd; */
+    color: white;
+    min-height: 300px;
+    /* text-align: center; */
+    /* margin: 15px; */
+    width: 100%;
+}
+.book{
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+}
+.book1{
+    color: white;
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid white;
+}
+.book2{
+    color: white;
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.book3{
+    color: white;
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.book4{
+    color:white;
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid white;
+}
+.book5{
+    color: white;
+}
